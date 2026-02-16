@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ravi%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Business%20Analyst%20%E2%80%A2%20Data%20Engineer&descAlignY=60&descColor=64b5f6&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,30:0a192f,60:0d2137,100:00b4d8&height=220&section=header&text=Ravi%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=⚙️%20Business%20Analyst%20%7C%20Data%20Engineer%20%7C%20AWS%20Cloud&descAlignY=62&descColor=00e5ff&animation=twinkling&stroke=00b4d8&strokeWidth=2)
 
 <div align="center">
 
@@ -114,4 +114,4 @@ I believe the best insights come from **clean data**, **well-designed systems**,
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:00b4d8,30:0d2137,60:0a192f,100:0d0d0d&height=120&section=footer&reversal=true)
