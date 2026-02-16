@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,30:0a192f,60:0d2137,100:00b4d8&height=220&section=header&text=Ravi%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=⚙️%20Business%20Analyst%20%7C%20Data%20Engineer%20%7C%20AWS%20Cloud&descAlignY=62&descColor=00e5ff&animation=twinkling&stroke=00b4d8&strokeWidth=2)
+![Data Engineering Banner](https://raw.githubusercontent.com/ravikumar-insights/ravikumar-insights/main/banner.svg)
 
 <div align="center">
 
