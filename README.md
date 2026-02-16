@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar-kunchala/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumar-insights)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumark-insights)
 ![Location](https://img.shields.io/badge/United%20States-%F0%9F%87%BA%F0%9F%87%B8-blue?style=for-the-badge)
 
 </div>
