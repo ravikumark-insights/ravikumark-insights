@@ -26,18 +26,6 @@
 
 ---
 
-## 💼 Experience
-
-🟠 **L5 Business Manager @ Amazon** *(Mar 2025 – Present · Virginia, US)*
-
-🟠 **L4 Business Manager @ Amazon** *(Mar 2024 – Mar 2025 · Virginia, US)*
-
-🟡 **Business Intelligence Analyst @ Udeels Technologies** *(Jun 2020 – Jul 2022 · Bengaluru, India)*
-
-🔵 **Business Analyst Intern @ Aadhya Analytics** *(May 2019 – May 2020 · Gannavaram, India)*
-
----
-
 ## 🛠 Tech Stack
 
 **☁️ Cloud & Data Infrastructure**
@@ -103,21 +91,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ravikumar-insights&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-insights&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravikumar-insights&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
