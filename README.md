@@ -55,15 +55,6 @@ I bridge the gap between **business needs** and **data systems** — designing s
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![KPI Dashboards](https://img.shields.io/badge/KPI%20Dashboards-00BCD4?style=for-the-badge&logo=grafana&logoColor=white)
 
-**🧠 Business Analysis**
-
-![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-FF6B35?style=for-the-badge&logo=confluence&logoColor=white)
-![Process Mapping](https://img.shields.io/badge/Process%20Mapping-6929C4?style=for-the-badge&logo=lucidchart&logoColor=white)
-![User Stories](https://img.shields.io/badge/User%20Stories-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![GAP Analysis](https://img.shields.io/badge/GAP%20Analysis-D62728?style=for-the-badge&logo=target&logoColor=white)
-![Agile Scrum](https://img.shields.io/badge/Agile%20%7C%20Scrum-0175C2?style=for-the-badge&logo=azuredevops&logoColor=white)
-
 **🔀 DevOps & Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,7 +82,6 @@ I bridge the gap between **business needs** and **data systems** — designing s
 | 📈 **SQL Funnel & KPI Analytics** | Conversion funnel analysis with business KPI tracking | PostgreSQL, Python |
 | ⚙️ **Airflow ETL Orchestration** | Scheduled, automated ETL workflows with monitoring | Airflow, Python, AWS |
 | 📊 **Business Dashboards** | Executive-level dashboards for key business metrics | Tableau, Power BI, SQL |
-| 📋 **BA Requirements Template** | BRD, user stories & process flow documentation | Confluence, Jira |
 
 ---
 
@@ -118,7 +108,6 @@ I bridge the gap between **business needs** and **data systems** — designing s
 - 🔧 Data engineering projects & pipeline architecture
 - 📊 Analytics case studies & KPI frameworks
 - 🗃 SQL optimization & BI dashboards
-- 📋 Business analysis, requirements gathering & process improvement
 
 ---
 
