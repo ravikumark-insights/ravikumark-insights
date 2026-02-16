@@ -3,20 +3,38 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar-kunchala/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumark-insights)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumar-insights)
 ![Location](https://img.shields.io/badge/United%20States-%F0%9F%87%BA%F0%9F%87%B8-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 Hey there, I'm Ravi Kumar
+## 👋 Nice to meet you, I'm Ravi Kumar!
 
-I'm a **Business Analyst & Data Engineer** based in the United States 🇺🇸
+🚀 I'm currently working at **Amazon** as an L5 Business Manager
 
-I bridge the gap between **business needs** and **data systems** — designing scalable pipelines, building KPI dashboards, and translating complex data into clear decisions.
+📊 Previously worked at **Udeels Technologies** as a Business Intelligence Analyst
 
-> *"Data is only as powerful as the decisions it enables."*
+🛠 Ask me about **Data Engineering, SQL, Python & AWS**
+
+🌐 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravikumar-kunchala/) — @ravikumar-kunchala
+
+⚡ Fun fact: I learn best by building real-world projects — every dataset tells a story!
+
+---
+
+---
+
+## 💼 Experience
+
+🟠 **L5 Business Manager @ Amazon** *(Mar 2025 – Present · Virginia, US)*
+
+🟠 **L4 Business Manager @ Amazon** *(Mar 2024 – Mar 2025 · Virginia, US)*
+
+🟡 **Business Intelligence Analyst @ Udeels Technologies** *(Jun 2020 – Jul 2022 · Bengaluru, India)*
+
+🔵 **Business Analyst Intern @ Aadhya Analytics** *(May 2019 – May 2020 · Gannavaram, India)*
 
 ---
 
@@ -30,13 +48,13 @@ I bridge the gap between **business needs** and **data systems** — designing s
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **🔧 Data Engineering**
 
@@ -46,11 +64,11 @@ I bridge the gap between **business needs** and **data systems** — designing s
 ![Data Lakes](https://img.shields.io/badge/Data%20Lakes-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-8C4FFF?style=for-the-badge&logo=snowflake&logoColor=white)
-
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **📊 Business Intelligence & Analytics**
 
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![KPI Dashboards](https://img.shields.io/badge/KPI%20Dashboards-00BCD4?style=for-the-badge&logo=grafana&logoColor=white)
@@ -85,6 +103,23 @@ I bridge the gap between **business needs** and **data systems** — designing s
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ravikumar-insights&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-insights&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravikumar-insights&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 🤝 Let's Collaborate On
 
