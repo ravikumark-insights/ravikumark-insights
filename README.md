@@ -30,13 +30,13 @@ I bridge the gap between **business needs** and **data systems** — designing s
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
 
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **🔧 Data Engineering**
 
@@ -46,11 +46,11 @@ I bridge the gap between **business needs** and **data systems** — designing s
 ![Data Lakes](https://img.shields.io/badge/Data%20Lakes-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-8C4FFF?style=for-the-badge&logo=snowflake&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 **📊 Business Intelligence & Analytics**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![KPI Dashboards](https://img.shields.io/badge/KPI%20Dashboards-00BCD4?style=for-the-badge&logo=grafana&logoColor=white)
