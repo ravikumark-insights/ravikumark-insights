@@ -84,10 +84,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏗 **AWS Data Lake Pipeline** | End-to-end data ingestion & transformation pipeline | S3, Glue, Athena, Lambda |
-| 📈 **SQL Funnel & KPI Analytics** | Conversion funnel analysis with business KPI tracking | PostgreSQL, Python |
-| ⚙️ **Airflow ETL Orchestration** | Scheduled, automated ETL workflows with monitoring | Airflow, Python, AWS |
-| 📊 **Business Dashboards** | Executive-level dashboards for key business metrics | Tableau, Power BI, SQL |
+| 📊 Sales Analytics (SQL Project) | End-to-end sales data analysis with cleaning, transformation, and business insights | SQL Server, Excel |
+| 🚚 Olist Supply Chain Analytics | Supply chain performance analysis including delivery trends, delays, and operational insights | SQL, Python, Power BI |
+| 📈 Business Dashboards | Interactive dashboards for performance tracking and decision-making | Excel, Power BI |
 
 ---
 
